@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+section.container h1{
+	font-size:30px;
+	text-align:center;
+	padding-top:25px;
+	padding-bottom:25px;
+}
+
+section.container h2{
+	font-size:28px;
+	text-align:left;
+	padding-top:25px;
+	padding-bottom:25px;
+}
+
+section.container p{
+	font-size:20px;
+	line-height:32px;
+	padding-bottom:15px;
+}
+
+section.container p#final{
+	margin-bottom:35px;
+}

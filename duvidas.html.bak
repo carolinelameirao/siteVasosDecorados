@@ -1,0 +1,219 @@
+<!doctorype html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8"/>
+	
+	<link rel="stylesheet" type="text/css" href="css/estilo.css"/>
+	<link rel="stylesheet" type="text/css" href="css/duvidas.css"/>
+	
+	<title> XPTO - Vasos Decorativos </title>	
+</head>
+<body>
+
+	<header class="cabecalho">
+	
+		<a href="index.html" target="_blank"><img src="img/logo.png" class="cabecalho-logo"/></a>
+		
+		<nav class="cabecalho-menu">
+			<a class="cabecalho-menu-item" href="index.html">Home</a>
+			<a class="cabecalho-menu-item" href="quemsomos.html">Quem Somos</a>
+			<a class="cabecalho-menu-item" href="catalogo.html">Catálogo</a>
+			<a class="cabecalho-menu-item" href="duvidas.html">Envie sua Dúvida</a>
+		</nav> <!--Fim Menu-->
+		
+	</header> <!--Fim Cabeçalho-->
+	
+	<section class="banner">
+	
+		<img src="img/banner.jpg" id="fotoprincipal" width="100%"/>
+	
+	</section> <!--Fim Banner-->
+	
+	<section class="container">
+		
+		<h1>Envie sua Dúvida</h1>
+		
+		<div id="formulario">
+		
+			<form>
+			
+				<fieldset class="grupo">
+				
+					<div class="campo">
+					
+						<label for="nome"><strong>Nome</strong></label>
+						<input type="text" name="nome" id="nome" required>
+						
+					</div> <!--Fim Campo-->
+
+					<div class="campo">
+					
+						<label for="sobrenome"><strong>Sobrenome</strong></label>
+						<input type="text" name="sobrenome" id="sobrenome" required>
+						
+					</div> <!--Fim Campo-->
+					
+				</fieldset> <!--Fim Grupo-->
+				
+				<div class="campo">
+				
+					<label for="email"><strong>Email</strong></label>
+					<input type="email" name="email" id="email" required>
+					
+				</div> <!--Fim Campo-->
+
+				<div class="campo">
+				
+					<label><strong>Sobre o que é sua dúvida?</strong></label>
+					<label>
+						<input type="radio" name="assunto" value="formadepagamento">Forma de Pagamento
+					</label>
+					<label>
+						<input type="radio" name="assunto" value="frete">Frete
+					</label><label>
+						<input type="radio" name="assunto" value="produtos">Produtos
+					</label>
+					<label>
+						<input type="radio" name="assunto" value="outros">Outros
+					</label>
+					
+				</div> <!--Fim Campo-->
+
+				<div class="campo">
+				
+					<label for="estado"><strong>Seu Estado</strong></label>
+					<select id="estado">
+						<option selected disabled value="">Selecione</option>
+						<option>Acre - AC</option>
+						<option>Alagoas - AL</option>
+						<option>Amapá - AP</option>
+						<option>Amazonas - AM</option>
+						<option>Bahia - BA</option>
+						<option>Ceará - CE</option>
+						<option>Distrito Federal - DF</option>
+						<option>Espírito Santo - ES</option>
+						<option>Goiás - GO</option>
+						<option>Maranhão - MA</option>
+						<option>Mato Grosso - MT</option>
+						<option>Mato Grosso do Sul - MS</option>
+						<option>Minas Gerais - MG</option>
+						<option>Pará - PA</option>
+						<option>Paraíba - PB</option>
+						<option>Paraná - PR</option>
+						<option>Pernambuco - PE</option>
+						<option>Piauí - PI</option>
+						<option>Roraima - RR</option>
+						<option>Rondônia - RO</option>
+						<option>Rio de Janeiro - RJ</option>
+						<option>Rio Grande do Norte - RN</option>
+						<option>Rio Grande do Sul - RS</option>
+						<option>Santa Catarina - SC</option>
+						<option>São Paulo - SP</option>
+						<option>Sergipe - SE</option>
+						<option>Tocantins - TO</option>
+					</select>
+					
+				</div> <!--Fim Campo-->
+
+				<fieldset class="grupo">
+				
+					<div id="check">
+					
+						<label for="planta"><strong>Selecione as plantas que possui:</strong></label><br><br>
+						<input type="checkbox" id="planta1" name="planta1" value="Samambaia">
+						<label for="planta1">Samambaia</label>
+						<input type="checkbox" id="planta2" name="planta2" value="Cróton">
+						<label for="planta2">Cróton</label>
+						<input type="checkbox" id="planta3" name="planta3" value="Orquídea">
+						<label for="planta3">Orquídea</label>
+						<input type="checkbox" id="planta4" name="planta4" value="Espada-de-São-Jorge">
+						<label for="planta4">Espada-de-São-Jorge</label>
+						<input type="checkbox" id="planta5" name="planta5" value="Bromélias">
+						<label for="planta5">Bromélias</label>
+						<input type="checkbox" id="planta6" name="planta6" value="Suculentas">
+						<label for="planta6">Suculentas</label>
+						<input type="checkbox" id="planta7" name="planta7" value="Cacto">
+						<label for="planta7">Cacto</label>
+						<input type="checkbox" id="planta8" name="planta8" value="Palmeira-leque">
+						<label for="planta8">Palmeira-leque</label>
+						<input type="checkbox" id="planta9" name="planta9" value="Begônia">
+						<label for="planta9">Begônia</label>
+						<input type="checkbox" id="planta10" name="planta10" value="Zamioculca">
+						<label for="planta10">Zamioculca</label>
+						
+					</div> <!--Fim Check-->
+					
+				</fieldset> <!--Fim Grupo-->
+				
+				<div class="campo">
+				
+					<br>
+					<label for="experiencia"><strong>Conte sobre sua dúvida:</strong></label>
+					<textarea row="6" style="width: 26em;" id="experiencia" name="experiencia"></textarea>
+					
+				</div> <!--Fim Campo-->
+				
+				<div id="botão">
+
+					<button class="botao" type="submit">enviar</button>
+					
+				</div> <!--Fim Botão-->
+				
+			</form> <!--Fim Form-->
+		
+		</div> <!--Fim Formulário-->
+		
+	</section> <!--Fim Container-->
+	
+	<footer class="rodape">
+	
+		<div class="caixarodape">
+		
+			<div class="link">
+
+				<h4> Nossos Parceiros: </h4>
+	
+					<ul>
+						<li><a href="https://www.holambelo.com.br/#o-maior-atacadista-de-flores-do-brasil" target="_blank"> Holambelo - Compre suas Plantas </a></li>		
+			
+						<li><a href="https://www.petz.com.br/casa-e-jardim/jardim/adubos-e-fertilizantes" target="_blank"> Petz - Terras, Adubos e Fertilizantes </a></li>
+					</ul>
+					
+			</div> <!--Fim Link-->
+			
+			<div class="menurodape">
+			
+				<h4>Mapa do Site</h4>
+			
+					<nav class="menufinal">
+						<a class="menurodape-menufinal-item" href="index.html">Home</a>
+						<a class="menurodape-menufinal-item" href="quemsomos.html">Quem Somos</a>
+						<a class="menurodape-menufinal-item" href="catalogo.html">Catálogo</a>
+						<a class="menurodape-menufinal-item" href="duvidas.html">Envie sua Dúvida</a>
+					</nav> <!--Fim Menu Final-->
+			
+			</div> <!--Fim Menu Rodapé-->
+			
+			<div class="contato">
+			
+				<h4>Fale Conosco</h4>
+					
+				<p><strong>Central de Atendimento:</strong> 0800-031-1010</p>
+				<p><strong>WhatsApp:</strong> (21) 99999-9999</p>
+				<p>contato@xptovasosdecorativos.com</p>
+			
+			</div> <!--Fim Contato-->
+		
+		</div> <!--Fim Caixa Rodapé-->
+		
+		<div class="desenvolvido">
+		
+			<p>&copy;XPTO - Vasos Decorativos. Todos os direitos reservados.</p>
+			<p>Desenvolvido por: <a href="#" target="_blank"> Caroline Lameirão </a> </p>
+			
+		</div> <!--Fim Desenvolvido-->
+	
+	</footer> <!--Fim Footer-->
+
+</body>
+</html>

@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+    text-decoration:none;
+}
+
+body{
+	font-size:100%;
+	color:#363636;
+}
+
+.cabecalho{
+	display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-around;
+	background-color:#66CDAA;
+}
+
+.cabecalho-logo{
+	height:140px;
+}
+
+.cabecalho-menu{
+	display:flex;
+    gap:40px;
+}
+
+.cabecalho-menu-item{
+	font-family: 'Righteous', cursiva;
+    color:white;
+    font-weight:400;
+    font-size:20px;
+}
+
+.cabecalho-menu-item:hover{
+	color:green;
+}
+
+section.banner{
+	width:100%;
+	height:auto;
+	/*background-color:orange;*/
+}
+
+section.container{
+	width:1200px;
+	height:4800px;
+	margin:auto;
+	font-family: 'Sarala', sans-serif;
+	/*border:4px solid grey;*/
+}
+
+footer.rodape{
+	width:100%;
+	height:300px;
+	background-color:#66CDAA;
+	margin:auto;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+footer.rodape div.caixarodape{
+	width:1200px;
+	height:200px;
+	/*background-color:orange;*/
+	margin:auto;
+}
+
+footer.rodape div.caixarodape div.link{
+	width:380px;
+	height:200px;
+	/*background-color:pink;*/
+	float:left;
+}
+
+footer.rodape div.caixarodape div.link ul li{
+	font-family: 'Sarala', sans-serif;
+	font-size:20px;
+	list-style:none;
+	line-height:28px;
+}
+
+footer.rodape div.caixarodape div.link a{
+	color:white;
+	text-decoration:none;
+}
+
+footer.rodape div.caixarodape div.link a:hover{
+	color:green;
+}
+
+footer.rodape div.caixarodape div.menurodape{
+	width:380px;
+	height:200px;
+	/*background-color:purple;*/
+	float:left;
+	margin-left:30px;
+	text-align:center;
+}
+
+footer.rodape div.caixarodape div.menurodape nav.menufinal{
+	width:380px;
+	height:120px;
+	/*background-color:black;*/
+	margin:auto;
+}
+
+footer.rodape div.caixarodape div.menurodape nav.menufinal a.menurodape-menufinal-item{
+	display:block;
+	flex-direction: column;
+	font-family: 'Sarala', sans-serif;
+	font-size:18px;
+	color:white;
+	
+}
+
+footer.rodape div.caixarodape div.menurodape nav.menufinal a.menurodape-menufinal-item:hover{
+	color:green;
+}
+
+footer.rodape div.caixarodape div.contato{
+	width:380px;
+	height:200px;
+	/*background-color:green;*/
+	float:right;
+}
+
+footer.rodape div.caixarodape div.contato p{
+	font-family: 'Sarala', sans-serif;
+	font-size: 18px;
+	color:white;
+}
+
+footer.rodape div.caixarodape div.link h4,
+footer.rodape div.caixarodape div.menurodape h4,
+footer.rodape div.caixarodape div.contato h4{
+	font-family: 'Righteous', cursiva;
+    color:white;
+    font-weight:400;
+    font-size:22px;
+	margin:20px 0 20px 0;
+}
+
+footer.rodape div.desenvolvido{
+	margin:20px 0 20px 0;
+}
+
+footer.rodape div.desenvolvido p{
+	font-family: 'Righteous', cursiva;
+	font-size:20px;
+	text-align:center;
+	line-height:23px;
+	color:white;
+}
+
+footer.rodape div.desenvolvido p a{
+	color:green;
+	text-decoration:none;
+}
+
+footer.rodape div.desenvolvido p a:hover{
+	color:white;
+}

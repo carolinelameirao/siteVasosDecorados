@@ -1,0 +1,189 @@
+
+<!doctorype html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8"/>
+	
+	<link rel="stylesheet" type="text/css" href="css/estilo.css"/>
+	<link rel="stylesheet" type="text/css" href="css/home.css"/>
+	
+	<title> XPTO - Vasos Decorativos </title>	
+</head>
+<body>
+
+	<header class="cabecalho">
+	
+		<a href="index.html" target="_blank"><img src="img/logo.png" class="cabecalho-logo"/></a>
+		
+		<nav class="cabecalho-menu">
+			<a class="cabecalho-menu-item" href="index.html">Home</a>
+			<a class="cabecalho-menu-item" href="quemsomos.html">Quem Somos</a>
+			<a class="cabecalho-menu-item" href="catalogo.html">Catálogo</a>
+			<a class="cabecalho-menu-item" href="duvidas.html">Envie sua Dúvida</a>
+		</nav> <!--Fim Menu-->
+		
+	</header> <!--Fim Cabeçalho-->
+	
+	<section class="banner">
+	
+		<img src="img/banner.jpg" id="fotoprincipal" width="100%"/>
+	
+	</section> <!--Fim Banner-->
+	
+	<section class="container">
+	
+		<div id="blocoprincipal">
+
+			<h1> Dicas de como Escolher Vasos para Plantas </h1>
+
+				<p>Utilizar vasos de plantas é garantia de um toque de leveza ao ambiente, além de deixar a decoração mais bonita. Você pode optar por colocar vasos de plantas tanto na parte interna, quanto na parte externa da casa, mas para isso você precisa escolher as plantas que se adaptam melhor ao ambiente — e algumas podem ser usadas em ambos, como a espada de São Jorge — e também saber escolher quais são os vasos para plantas mais indicados para determinada espécie.</p>
+
+				<p>Pensando nisso hoje nós vamos te mostrar como escolher vasos de plantas e também vários modelos de vasos para plantas na decoração, assim você pode se inspirar e começar a colocar mais verde na decoração do seu lar.</p>
+
+			<h2> Qual o melhor vaso para as plantas? </h2>
+
+				<p>Cada planta tem as suas próprias características e necessidades, por isso, é necessário saber escolher corretamente os vasos decorativos para plantas para que elas possam se desenvolver melhor ou em um terraço, quintal ou mesmo dentro de casa.</p>
+
+				<p>A primeira coisa que você precisa observar antes de escolher os vasos para plantas é qual a espécie e porte da planta que você vai plantar, pois quanto maior o vaso mais espaço a planta terá para se desenvolver. As azaleias e o Girassol, por exemplo, são plantas versáteis que podem ser cultivadas em vasos, no jardim e até como bonsai.</p>
+
+				<p>Um dos tipos de vasos de plantas para jardim mais comuns, são os vasos de cerâmica. Os vasos de plantas feitos de cerâmica tendem a ressecar se expostos ao sol, mas você pode tentar evitar isso mantendo a terra sempre úmida. Outro contratempo que o vaso de cerâmica pode ter é que com o passar do tempo ele ganha uma cor esverdeada, pois, retém muita umidade, porém, você pode limpa-lo com o auxílio de uma escova de aço, por exemplo.</p>
+
+				<p>Na foto abaixo você pode ver a varanda decorada com um jardim vertical cheio de vasinhos de cerâmica, ficou muito charmoso!</<p>
+
+					<img src="img/imagem1.jpg" width="600" height="300" title="Sacada com plantas em vasos de cerâmica" alt="Sacada com plantas em vasos de cerâmica" id="imagem1"/>
+
+				<p>Vaso de cerâmica esmaltada costumam ser mais caros, porém, tem a durabilidade maior, além de serem lindos. Os vasos para plantas de cerâmica esmaltada são muito utilizados para plantar pequenas flores como a kalanchoe, assim como árvores e frutíferas de pequeno porte. Abaixo você pode observar vasos de cerâmica esmaltada que recebeu orquídeas e deixaram a decoração da sala com sofá branco muito mais bonita.</p>
+
+					<img src="img/imagem2.jpg" width="600" height="300" title="Sala com vasos de cerâmica esmaltada que recebeu orquídeas" alt="Sala com vasos de cerâmica esmaltada que recebeu orquídeas" id="imagem2"/>
+
+				<p>Utilizar cachepot de vidro para planta garante uma decoração muito bonita e bem moderna, porém, esses tipos de vasos de plantas requerem bastante manutenção para que a planta se desenvolva bem e não morra, por isso, é necessário pensar bastante antes de escolher esse modelo de vasos decorativos para plantas.</p>
+
+				<p>Vasos de madeira também são lindos e leves, mas é necessário utilizar vasos para plantas de plástico ou mesmo de zinco dentro dele para assim poder fazer o plantio.</p>
+
+				<p>No ambiente da foto abaixo, os vasos de madeira combinaram super bem com a decoração da sala de jantar onde o revestimento de parede é com ripas de madeira assim como o conjunto de mesa de jantar com cadeiras.</p>
+
+					<img src="img/imagem3.jpg" width="450" height="500" title="Ambiente em madeira com vasos de plantas em madeira" alt="Ambiente em madeira com vasos de plantas em madeira" id="imagem3"/>
+
+			<h2> Onde colocar vasos de plantas? </h2>
+
+				<p>No mercado é fácil encontrar diversos modelos de suporte para vasos de plantas, mas dentro de sua casa, com certeza também deve haver algum suporte para vasos de plantas que você nem imagina. Abaixo você pode conferir uma decoração rústica onde o suporte para vasos de plantas foi uma estante antiga de ferro com tábuas de madeira. Ficou lindo!</p>
+
+					<img src="img/imagem4.jpg" width="600" height="300" title="Quintal com vasos de plantas em uma estante de ferro e madeira antiga" alt="Quintal com vasos de plantas em uma estante de ferro e madeira antiga" id="imagem4"/>
+
+				<p>Um armário de vidro como uma cristaleira também pode se tornar um suporte para vasos de plantas e criar um ambiente parecido com uma estufa para decorar a sua varanda.</p>
+
+				<p>Outra ideia linda de suporte para vasos de plantas é utilizar cestos rústicos como os de corda ou vime, eles deixam a decoração muito mais bonita e a planta acaba se tornando um grande destaque.</p>
+
+				<p>Ao escolher os vasos de plantas para sala é necessário que você olhe as dimensões do ambiente. Se a sala for pequena, os vasos de plantas para sala também devem ser pequenos, agora se a sala for grande e espaçosa, os vasos de plantas para sala devem ser também grandes, assim, eles não passam despercebidos na decoração. Ou você também pode fazer um mix de vasos grandes e pequenos, como na sala de estar abaixo.</p>
+
+					<img src="img/imagem5.jpg" width="600" height="300" title="Sala com vários tipos de vasos de plantas" alt="Sala com vários tipos de vasos de plantas" id="imagem5"/>
+
+				<p>Se você não tem muito tempo para cuidar de plantas, ou não leva muito jeito ou mesmo se prefere fazer uma decoração rústica, opte por vasos de plantas para sala com cactos. Eles são lindos, exigem menos cuidados e fazem a decoração da sala ficar super especial.</p>
+
+				<p>Alguns modelos de vasos decorativos para plantas são bem bonitos, como os de louça, que deixam a decoração bem sofisticada.</p>
+
+				<p>Para deixar os vasos decorativos para plantas ainda mais divertidos, você pode pinta-los com tinta lousa e escrever frases ou mesmo o nome da planta ou hortaliça que ali foi plantada.</p>
+				
+		</div> <!--Fim Bloco Principal-->
+		
+		<div id="blocofinal">
+			
+			<div id="lista1">
+			
+				<h3> Tipos de vasos para plantas: </h3>
+
+					<ul>
+						<li> Cerâmica natural; </li>
+						<li> Vasos de cerâmica esmaltada; </li>
+						<li> Vasos de concreto ou cimento </li>
+						<li> Vasos de plástico; </li>
+						<li> Vaso de polietileno; </li>
+						<li> Vaso de pedra; </li>
+						<li> Vaso de madeira; </li>
+						<li> Vaso de metal; </li>
+						<li> Vaso de fibras naturais; </li>
+						<li> Vaso de vidro; </li>
+						<li> Vaso de plantas murano; </li>
+						<li> Vaso de porcelana; </li>
+						<li> Vaso de tecido. </li>
+					</ul>
+				
+			</div> <!--Fim Lista1-->
+			
+			<div id="lista2">
+
+				<h3> Tipos de plantas para ter dentro de casa: </h3>
+
+					<ol>
+						<li> Samambaia; </li>
+						<li> Cróton; </li>
+						<li> Orquídea; </li>
+						<li> Espada-de-São-Jorge; </li>
+						<li> Bromélias; </li>
+						<li> Suculentas; </li>
+						<li> Cacto; </li>
+						<li> Palmeira-leque; </li>
+						<li> Begônia; </li>
+						<li> Zamioculca. </li>
+					</ol>
+				
+			</div> <!--Fim Lista2-->
+		
+		</div> <!--Fim Tabela-->
+		
+		</div> <!--Fim Bloco Bloco Final-->
+		
+	</section> <!--Fim Container-->
+	
+	<footer class="rodape">
+	
+		<div class="caixarodape">
+		
+			<div class="link">
+
+				<h4> Nossos Parceiros: </h4>
+	
+					<ul>
+						<li><a href="https://www.holambelo.com.br/#o-maior-atacadista-de-flores-do-brasil" target="_blank"> Holambelo - Compre suas Plantas </a></li>		
+			
+						<li><a href="https://www.petz.com.br/casa-e-jardim/jardim/adubos-e-fertilizantes" target="_blank"> Petz - Terras, Adubos e Fertilizantes </a></li>
+					</ul>
+					
+			</div> <!--Fim Link-->
+			
+			<div class="menurodape">
+			
+				<h4>Mapa do Site</h4>
+			
+					<nav class="menufinal">
+						<a class="menurodape-menufinal-item" href="index.html">Home</a>
+						<a class="menurodape-menufinal-item" href="quemsomos.html">Quem Somos</a>
+						<a class="menurodape-menufinal-item" href="catalogo.html">Catálogo</a>
+						<a class="menurodape-menufinal-item" href="duvidas.html">Envie sua Dúvida</a>
+					</nav> <!--Fim Menu Final-->
+			
+			</div> <!--Fim Menu Rodapé-->
+			
+			<div class="contato">
+			
+				<h4>Fale Conosco</h4>
+					
+				<p><strong>Central de Atendimento:</strong> 0800-031-1010</p>
+				<p><strong>WhatsApp:</strong> (21) 99999-9999</p>
+				<p>contato@xptovasosdecorativos.com</p>
+			
+			</div> <!--Fim Contato-->
+		
+		</div> <!--Fim Caixa Rodapé-->
+		
+		<div class="desenvolvido">
+		
+			<p>&copy;XPTO - Vasos Decorativos. Todos os direitos reservados.</p>
+			<p>Desenvolvido por: <a href="#" target="_blank"> Caroline Lameirão </a> </p>
+			
+		</div> <!--Fim Desenvolvido-->
+	
+	</footer> <!--Fim Footer-->
+
+</body>
+</html>

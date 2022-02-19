@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+section.container div#blocoprincipal{
+	width:1200px;
+	height:auto;
+	/*background-color:pink;*/
+}
+
+section.container div#blocoprincipal h1{
+	font-size:30px;
+	text-align:center;
+	padding-top:25px;
+	padding-bottom:25px;
+}
+
+section.container div#blocoprincipal h2{
+	font-size:28px;
+	text-align:center;
+	padding-top:25px;
+	padding-bottom:25px;
+}
+
+section.container div#blocoprincipal p{
+	font-size:20px;
+	line-height:32px;
+	padding-bottom:15px;
+}
+		
+img#imagem1,
+img#imagem2,
+img#imagem3,
+img#imagem4,
+img#imagem5{
+	display:block;
+	margin:auto;
+	margin-top:25px;
+	margin-bottom:25px;
+}
+
+section.container div#blocofinal{
+	width:1200px;
+	height:550px;
+	/*background-color:blue;*/
+	margin:auto;
+}
+
+section.container div#blocofinal div#lista1{
+	width:550px;
+	height:auto;
+	/*background-color:orange;*/
+	float:left;
+}
+
+section.container div#blocofinal div#lista1 ul{
+	font-size:20px;
+	line-height:32px;
+	padding-bottom:25px;
+	padding-left:60px;
+}
+
+section.container div#blocofinal div#lista2{
+	width:550px;
+	height:auto;
+	/*background-color:orange;*/
+	float:right;
+}
+	
+section.container div#blocofinal div#lista2 ol{
+	font-size:20px;
+	line-height:32px;
+	padding-bottom:25px;
+	padding-left:60px;
+}
+
+section.container div#blocofinal div#lista1 h3,
+section.container div#blocofinal div#lista2 h3{
+	font-size:26px;
+	padding-top:25px;
+	padding-bottom:25px;
+	padding-left:25px;
+}
